@@ -1,22 +1,8 @@
-# Weather Dashboard
+# React + Vite
 
-## Project Overview
-The Weather Dashboard is a responsive web application that allows users to search for real-time weather data in any city. This project demonstrates the use of React, Tailwind CSS, and the OpenWeatherMap API for building dynamic, data-driven user interfaces.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## Features
-- Fetches real-time weather data using the OpenWeatherMap API.
-- Displays temperature, humidity, wind speed, and weather icons.
-- Allows users to search for weather in any city.
-- Fully responsive design implemented with Tailwind CSS.
+Currently, two official plugins are available:
 
-## Technologies Used
-- React
-- Tailwind CSS
-- OpenWeatherMap API
-- Git and GitHub
-
-## Getting Started
-### Prerequisites
-- Node.js installed on your local machine.
-- OpenWeatherMap API key 
-
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
